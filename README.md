@@ -43,10 +43,15 @@ Este projeto foi desenvolvido durante meu estágio na [Nome da Empresa]. O objet
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Créditos
 
-Desenvolvido por [Nicolas de Oliveira Valle] durante estágio na [LMP Certificações].
+Desenvolvido por Nicolas de Oliveira Valle durante estágio na LMP Certificações.
+
+## Contato
+Para mais dúvidas, segue abaixo minhas redes:
+Linkedin: www.linkedin.com/in/nicolas-valle-620b29219
+Instagram: www.instagram.com/nicks.valle/
+Email: nicolasdeoliveiravalle@gmail.com
+
+
