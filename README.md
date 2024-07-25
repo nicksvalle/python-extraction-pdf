@@ -1,6 +1,6 @@
 # PDF Clause Extractor
 
-Este projeto foi desenvolvido durante meu estágio na [Nome da Empresa]. O objetivo do projeto é extrair cláusulas de tabelas em arquivos PDF que contêm o valor "N/A" na última coluna, a partir de uma página especificada. As cláusulas extraídas são salvas em um arquivo Excel para fácil análise.
+Este projeto foi desenvolvido durante meu estágio na LMP Certificações. O objetivo do projeto é extrair cláusulas de tabelas em arquivos PDF que contêm o valor "N/A" na última coluna, a partir de uma página especificada. As cláusulas extraídas são salvas em um arquivo Excel para fácil análise.
 
 ## Funcionalidades
 
